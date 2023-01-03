@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "657603431800",
+    "project_id": "notaris-3c179",
+    "storage_bucket": "notaris-3c179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657603431800:android:6f9ad72ca8a20a34760c8d",
+        "android_client_info": {
+          "package_name": "com.enotaris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657603431800-p1tpps31r98pdm02jl1fcov9r8fjlq1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enotaris",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "657603431800-odcnikkj88rk1urcsm98953ai38ja6gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaiM6qGUkPCKbXJOILEjMjZkW3tBRU69s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657603431800-odcnikkj88rk1urcsm98953ai38ja6gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657603431800-bi6u4b3ndtkoqgnn9cc3ednku1ophlt2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ngi.enotaris"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+"use strict";
+exports.__esModule = true;
+exports.SET_RUNNING_TEXT = exports.LOG_OUT = exports.LOGIN_SUCCESS = exports.LOGIN_FAILED = exports.LOGIN_LOADING_ENDED = exports.LOGIN_RESPONSE = exports.LOGIN_REQUEST = exports.TOGGLE_THEME = exports.LOGIN_DISABLE_LOADER = exports.LOGIN_ENABLE_LOADER = void 0;
+// loaders
+exports.LOGIN_ENABLE_LOADER = 'LOGIN_ENABLE_LOADER';
+exports.LOGIN_DISABLE_LOADER = 'LOGIN_DISABLE_LOADER';
+// theming
+exports.TOGGLE_THEME = 'TOGGLE_THEME';
+// login
+exports.LOGIN_REQUEST = 'LOGIN_REQUEST';
+exports.LOGIN_RESPONSE = 'LOGIN_RESPONSE';
+exports.LOGIN_LOADING_ENDED = 'LOGIN_LOADING_ENDED';
+exports.LOGIN_FAILED = 'LOGIN_FAILED';
+exports.LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+exports.LOG_OUT = 'LOG_OUT';
+// main
+exports.SET_RUNNING_TEXT = 'SET_RUNNING_TEXT';

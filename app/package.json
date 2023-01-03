@@ -1,0 +1,7 @@
+{
+  "name": "app",
+  "devDependencies": {
+    "@types/react-native-loading-spinner-overlay": "^0.5.3",
+    "@types/react-native-version-check": "^3.4.4"
+  }
+}
